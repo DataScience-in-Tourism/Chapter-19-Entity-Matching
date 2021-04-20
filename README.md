@@ -1,2 +1,3 @@
 # Chapter-19-Entity-Matching
-Chapter 19: Entity Matching
+**Author**
+* Ivan Bilan - TrustYou
