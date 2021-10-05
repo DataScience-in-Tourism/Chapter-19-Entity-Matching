@@ -1,7 +1,7 @@
-# Chapter-19-Entity-Matching
+# Chapter 19: Entity Matching
 ## http://www.datascience-in-tourism.com/
 
-**Author**
+***Ivan Bilan***
 * Ivan Bilan - TrustYou
 
 **Abstract**
